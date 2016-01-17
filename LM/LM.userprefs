@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DragObject.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DragPanel.cs">
     <Files>
-      <File FileName="Assets/Scripts/DragPanel.cs" Line="46" Column="31" />
-      <File FileName="Assets/Scripts/DragObject.cs" Line="4" Column="24" />
+      <File FileName="Assets/Scripts/DragPanel.cs" Line="45" Column="38" />
+      <File FileName="Assets/Scripts/DragObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SnapToGrid.cs" Line="25" Column="16" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
