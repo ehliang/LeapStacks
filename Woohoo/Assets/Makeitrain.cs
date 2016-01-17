@@ -11,7 +11,7 @@ public class Makeitrain : MonoBehaviour {
     Vector3 buttonPos;
 
     // Threshold for considering screen taps
-    private float epsilon = 1.35F;
+    private float epsilon = 1.45F;
     private GameObject button;
 
     // Use this for initialization
