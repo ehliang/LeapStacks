@@ -12,7 +12,7 @@ public class Sandbox : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        Debug.Log("Sandbox updated");
+        //Debug.Log("Sandbox updated");
 	}
 
     void OnGUI()
