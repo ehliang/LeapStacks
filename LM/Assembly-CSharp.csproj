@@ -146,6 +146,7 @@
      <Compile Include="Assets\OVR\Scripts\Util\OVRVisionGuide.cs" />
      <Compile Include="Assets\Scripts\DragObject.cs" />
      <Compile Include="Assets\Scripts\DragPanel.cs" />
+     <Compile Include="Assets\Scripts\SnapToGrid.cs" />
      <None Include="Assets\Plugins\donotdelete.txt" />
      <None Include="Assets\LeapMotion\Materials\Sources\Shaders\Toony-Basic.shader" />
      <None Include="Assets\LeapMotion\Resources\LeapCG.cginc" />
@@ -177,6 +178,10 @@
  <Reference Include="LeapCSharp.NET3.5">
  <HintPath>/Users/Joanna/DeltaHacksII/LM/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
  </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{B25BE547-E215-67B3-F0A4-791C7B2E5AE6}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
