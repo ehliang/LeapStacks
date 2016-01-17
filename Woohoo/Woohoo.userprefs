@@ -1,9 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CubeGenerate.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Makeitrain.cs">
     <Files>
-      <File FileName="Assets/CubeGenerate.cs" Line="24" Column="1" />
-      <File FileName="Assets/Makeitrain.cs" Line="27" Column="1" />
+      <File FileName="Assets/CubeGenerate.cs" Line="5" Column="1" />
+      <File FileName="Assets/Makeitrain.cs" Line="23" Column="43" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
