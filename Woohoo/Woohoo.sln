@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5652972A-A9A4-3625-F1B1-D4743ADCD0D7}") = "Woohoo", "Assembly-CSharp.csproj", "{3B20D43E-233C-AC39-9B8E-9FD4A83EB0D8}"
+EndProject
+Project("{5652972A-A9A4-3625-F1B1-D4743ADCD0D7}") = "Woohoo", "Assembly-CSharp-Editor.csproj", "{5590FF1F-A93A-20C9-118B-F9F46393BC73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B20D43E-233C-AC39-9B8E-9FD4A83EB0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B20D43E-233C-AC39-9B8E-9FD4A83EB0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B20D43E-233C-AC39-9B8E-9FD4A83EB0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B20D43E-233C-AC39-9B8E-9FD4A83EB0D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5590FF1F-A93A-20C9-118B-F9F46393BC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5590FF1F-A93A-20C9-118B-F9F46393BC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5590FF1F-A93A-20C9-118B-F9F46393BC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5590FF1F-A93A-20C9-118B-F9F46393BC73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
