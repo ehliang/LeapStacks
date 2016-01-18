@@ -1,6 +1,6 @@
 # DeltaHacksII
 
-* See our project on Devpost: http://devpost.com/software/leapstax/ *
+*See our project on Devpost: http://devpost.com/software/leapstax/*
 
 ## Inspiration
 When thinking about what we can do with technology to evoke positive change, we realized that it needed to start with the youth. Children are the future and the quality of their education is crucial for fostering the next generation of innovative engineers. However, one area that students consistently score poorly on is spatial geometric interpretation. 
